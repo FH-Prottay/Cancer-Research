@@ -1,1 +1,1 @@
-# Cancer-Research ipynb code is in this repository
+# Cancer-Research python code is in this repository
